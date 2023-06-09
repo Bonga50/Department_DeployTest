@@ -12,8 +12,9 @@ namespace DepartmentApp.Data
             new Department(1,"IT"),
             new Department(2,"HR"),
             new Department(3,"FINANCE"),
-             new Department(3,"The LOSERS CLUB"),
-              new Department(3,"LIBRARY"),
+            new Department(3,"The LOSERS CLUB"),
+            new Department(3,"LIBRARY"),
+             new Department(3,"CUSTOMER RELATIONS"),
             };
     }
 }
